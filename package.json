@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/nkolatsis/learnyoumongo-workthrough#readme",
   "dependencies": {
-    "learnyoumongo": "^3.2.1"
+    "learnyoumongo": "^3.2.1",
+    "mongodb": "^2.2.33"
   }
 }
