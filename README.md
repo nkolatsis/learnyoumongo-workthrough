@@ -2,4 +2,4 @@
 
 My workthrough of NodeSchool.io's LearnYouMongo workshopper.
 
-Progress: 
+Progress: 3 of 9 tasks completed
