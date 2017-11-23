@@ -2,4 +2,6 @@
 
 My workthrough of NodeSchool.io's LearnYouMongo workshopper.
 
-Progress: 3 of 9 tasks completed
+Progress: 9/9 - All tasks completed.
+
+Github: https://github.com/nkolatsis/learnyoumongo-workthrough.git
